@@ -1,0 +1,81 @@
+-----BEGIN CERTIFICATE-----
+MIIDNTCCAh2gAwIBAgIUKd60wqxAirY7eXC4pF/zHMhPpzcwDQYJKoZIhvcNAQEL
+BQAwKDESMBAGA1UEAwwJbWl0bXByb3h5MRIwEAYDVQQKDAltaXRtcHJveHkwHhcN
+MjYwNzI4MjA0MzU1WhcNMzYwNzI1MjA0MzU1WjAoMRIwEAYDVQQDDAltaXRtcHJv
+eHkxEjAQBgNVBAoMCW1pdG1wcm94eTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAMj357SbIiCv0jTk35g8wiqLLUEE73WCzfYRExKAPwKYlQX1nAoZCJO2
+l9nUqHsb2+mfrk4aWS+ZoElOHS3B/Mo8AUaWNvZmjkhMVcBG8LtsEhkJqMCCAStI
+bNpybnmypauwDWHOlJXQg7rQnzNpbMuP5oyD129Z1RYySymwRULaWkdrMkTwFyVG
+lQzZeC6yw9492oW7YOn6QnjvDaFH/AwgDi38+XMmXqYmuCGgu1ijCKef4VSmwpl/
+LywgTHIOibLxLIAmh1djz5eDgmTP+8qqHmx1QjwwLB7h8NjvNYpUjAc0IKBRtnpG
+qkNPFLYcgd5Cq3HR2iip0incUw0eIR8CAwEAAaNXMFUwDwYDVR0TAQH/BAUwAwEB
+/zATBgNVHSUEDDAKBggrBgEFBQcDATAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0OBBYE
+FAKI0gC9u54CDaLp5zsRJD93Nv71MA0GCSqGSIb3DQEBCwUAA4IBAQCryj/ZW86L
+OpN87egz310ks8FtdISqRQlREiI88lPRTr94y5XMdD380Ug/fCVhs1D2Rae8xulj
+q9Wbwap68WlOz1M1mJAtsmItNeJQJriAmOao8GQ3K1s9zWA6I4387iFADgIDN0iX
+PJoOAsmBxp8SExD0N6p0vwqjmLKRK6LPKIInwn8E0OEUZGfeS2K5HRJxY10N3sUE
+u0hTdMXZzn4MJdbWzMCx3XMpycn4qn0xrzDBfy9u0Kie7DrPkGqlfHHObViwonrS
+CrpZ/6+57Z4mwlUuq3UuUYXj/cdSx7TOvrUVOrowCnGiPi8P5bPmgeGowyOgYU+d
+zegZbofj4fAC
+-----END CERTIFICATE-----
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            29:de:b4:c2:ac:40:8a:b6:3b:79:70:b8:a4:5f:f3:1c:c8:4f:a7:37
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=mitmproxy, O=mitmproxy
+        Validity
+            Not Before: Jul 28 20:43:55 2026 GMT
+            Not After : Jul 25 20:43:55 2036 GMT
+        Subject: CN=mitmproxy, O=mitmproxy
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c8:f7:e7:b4:9b:22:20:af:d2:34:e4:df:98:3c:
+                    c2:2a:8b:2d:41:04:ef:75:82:cd:f6:11:13:12:80:
+                    3f:02:98:95:05:f5:9c:0a:19:08:93:b6:97:d9:d4:
+                    a8:7b:1b:db:e9:9f:ae:4e:1a:59:2f:99:a0:49:4e:
+                    1d:2d:c1:fc:ca:3c:01:46:96:36:f6:66:8e:48:4c:
+                    55:c0:46:f0:bb:6c:12:19:09:a8:c0:82:01:2b:48:
+                    6c:da:72:6e:79:b2:a5:ab:b0:0d:61:ce:94:95:d0:
+                    83:ba:d0:9f:33:69:6c:cb:8f:e6:8c:83:d7:6f:59:
+                    d5:16:32:4b:29:b0:45:42:da:5a:47:6b:32:44:f0:
+                    17:25:46:95:0c:d9:78:2e:b2:c3:de:3d:da:85:bb:
+                    60:e9:fa:42:78:ef:0d:a1:47:fc:0c:20:0e:2d:fc:
+                    f9:73:26:5e:a6:26:b8:21:a0:bb:58:a3:08:a7:9f:
+                    e1:54:a6:c2:99:7f:2f:2c:20:4c:72:0e:89:b2:f1:
+                    2c:80:26:87:57:63:cf:97:83:82:64:cf:fb:ca:aa:
+                    1e:6c:75:42:3c:30:2c:1e:e1:f0:d8:ef:35:8a:54:
+                    8c:07:34:20:a0:51:b6:7a:46:aa:43:4f:14:b6:1c:
+                    81:de:42:ab:71:d1:da:28:a9:d2:29:dc:53:0d:1e:
+                    21:1f
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: critical
+                Certificate Sign, CRL Sign
+            X509v3 Subject Key Identifier: 
+                02:88:D2:00:BD:BB:9E:02:0D:A2:E9:E7:3B:11:24:3F:77:36:FE:F5
+    Signature Algorithm: sha256WithRSAEncryption
+    Signature Value:
+        ab:ca:3f:d9:5b:ce:8b:3a:93:7c:ed:e8:33:df:5d:24:b3:c1:
+        6d:74:84:aa:45:09:51:12:22:3c:f2:53:d1:4e:bf:78:cb:95:
+        cc:74:3d:fc:d1:48:3f:7c:25:61:b3:50:f6:45:a7:bc:c6:e9:
+        63:ab:d5:9b:c1:aa:7a:f1:69:4e:cf:53:35:98:90:2d:b2:62:
+        2d:35:e2:50:26:b8:80:98:e6:a8:f0:64:37:2b:5b:3d:cd:60:
+        3a:23:8d:fc:ee:21:40:0e:02:03:37:48:97:3c:9a:0e:02:c9:
+        81:c6:9f:12:13:10:f4:37:aa:74:bf:0a:a3:98:b2:91:2b:a2:
+        cf:28:82:27:c2:7f:04:d0:e1:14:64:67:de:4b:62:b9:1d:12:
+        71:63:5d:0d:de:c5:04:bb:48:53:74:c5:d9:ce:7e:0c:25:d6:
+        d6:cc:c0:b1:dd:73:29:c9:c9:f8:aa:7d:31:af:30:c1:7f:2f:
+        6e:d0:a8:9e:ec:3a:cf:90:6a:a5:7c:71:ce:6d:58:b0:a2:7a:
+        d2:0a:ba:59:ff:af:b9:ed:9e:26:c2:55:2e:ab:75:2e:51:85:
+        e3:fd:c7:52:c7:b4:ce:be:b5:15:3a:ba:30:0a:71:a2:3e:2f:
+        0f:e5:b3:e6:81:e1:a8:c3:23:a0:61:4f:9d:cd:e8:19:6e:87:
+        e3:e1:f0:02
+SHA1 Fingerprint=4F:23:F9:BF:A8:E9:B7:7D:7F:D3:3F:CD:BD:06:C7:62:07:B7:5C:2F

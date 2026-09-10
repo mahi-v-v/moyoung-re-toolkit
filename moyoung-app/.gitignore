@@ -1,0 +1,163 @@
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+#
+# Rule of thumb for this repo: track SOURCE + the vendor SDK binary the build
+# needs; ignore anything Gradle, Metro, Expo or npm can regenerate.
+
+# ==========================================
+# Dependencies
+# ==========================================
+node_modules/
+.pnp
+.pnp.js
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+
+# ==========================================
+# Expo / Metro / bundler output & caches
+# ==========================================
+.expo/
+.expo-shared/
+dist/
+web-build/
+expo-env.d.ts
+.metro-health-check*
+.metro-cache/
+*.jsbundle
+.eas-build-local-nodejs/
+
+# ==========================================
+# Android native project (Expo prebuild output)
+# ------------------------------------------
+# Only Gradle's *outputs* are ignored — the gradle scripts, wrapper, manifests,
+# res/ and Kotlin sources under android/ stay tracked so the native project is
+# reproducible (this repo has a hand-tuned android/gradle.properties, e.g.
+# reactNativeArchitectures=arm64-v8a, that `expo prebuild --clean` would revert).
+#
+# If you'd rather go back to pure Continuous Native Generation and let
+# `npx expo prebuild` own the whole folder, delete this section and uncomment:
+# /android
+# ==========================================
+/android/build/
+/android/app/build/
+/android/app/release/
+/android/.gradle/
+/android/.kotlin/
+/android/.cxx/
+/android/app/.cxx/
+/android/.idea/
+/android/captures/
+/android/app/src/main/assets/index.android.bundle*
+
+# Machine-specific SDK/NDK paths — never commit
+/android/local.properties
+local.properties
+
+# Local module (modules/glass-sdk) Gradle output — NOT the libs/ folder
+modules/*/android/build/
+modules/*/android/.gradle/
+modules/*/android/.cxx/
+modules/*/android/.kotlin/
+
+# ==========================================
+# iOS native project
+# ------------------------------------------
+# Not generated in this workspace (Android-only tinker app). Regenerate with
+# `npx expo prebuild -p ios` on a Mac.
+# ==========================================
+/ios
+Pods/
+*.xcworkspace/xcuserdata/
+*.xcuserstate
+
+# ==========================================
+# Build artifacts / packaged apps
+# ==========================================
+*.apk
+*.aab
+*.apks
+*.dex
+*.ap_
+*.hprof
+*.iml
+build/
+.gradle/
+.kotlin/
+*.orig.*
+
+# NOTE: deliberately NO `*.jar` rule — android/gradle/wrapper/gradle-wrapper.jar
+# must stay tracked or `./gradlew` cannot bootstrap.
+
+# ==========================================
+# Signing material / secrets
+# ==========================================
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.pem
+*.mobileprovision
+.env
+.env.*
+!.env.example
+google-services.json
+GoogleService-Info.plist
+
+# The Android debug keystore is the well-known public one (password "android")
+# and app/build.gradle's debug signingConfig requires it — keep it tracked.
+!android/app/debug.keystore
+
+# ==========================================
+# KEEP — must never be ignored
+# ------------------------------------------
+# Proprietary vendor SDK; the app does not build without it. Kept explicit so a
+# future broad `*.aar` rule can't silently drop it.
+# ==========================================
+!modules/glass-sdk/android/libs/
+!modules/glass-sdk/android/libs/*.aar
+
+# ==========================================
+# Logs & debug
+# ==========================================
+*.log
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+pnpm-debug.*
+logcat*.txt
+
+# ==========================================
+# TypeScript / tooling
+# ==========================================
+*.tsbuildinfo
+.eslintcache
+
+# Local Claude Code overrides (.claude/settings.json IS shared/tracked)
+.claude/settings.local.json
+
+# ==========================================
+# OS / editor noise
+# ==========================================
+.DS_Store
+__MACOSX/
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.swp
+*~
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Scaffolding left over from `npm run reset-project`
+app-example
+
+# Bundled tinker firmware (large binaries; reproducible from firmware/vision-v821/_patched/).
+# Copied into the APK at build time — kept out of git. See the assets/firmware/README.md.
+modules/glass-sdk/android/src/main/assets/firmware/*.swu
+modules/glass-sdk/android/src/main/assets/firmware/*.ufw
+modules/glass-sdk/android/src/main/assets/firmware/*.bin

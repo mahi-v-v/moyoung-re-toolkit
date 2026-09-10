@@ -1,0 +1,1940 @@
+    176 TWA F @
+    20a TgA E @
+    980 D }?F#J
+    9cf AG F#J
+    c4a hCyDF#
+   1ad0 XbA*C"
+   1d4b @HbA3C!
+   1d5d @HbA3C 
+   1ef9 NI#B F 
+   218b pA#B!`
+   21e2 A!B!C!
+   21ec A!B!C$
+   33f3 ]A j<P
+   391c pGXCZB
+   39d0 bbe`x`)F+E
+   3a1a bbx`)F+E
+   3a66 bbx`)F+E
+   3ab1 gSSabZB
+   3d51  @)C A
+   3fd4 mJ``iIB C 
+   4299 P@`A G 
+   478c tyA E 
+   4a55 aE/B*D$D
+   4a65  E*B/D"C$@ D
+   4aab  B/C$@ 
+   4ac1 aE*B/C$D$4
+   4ad3  @ C%D%B E $
+   4ae7  B*C$@ 
+   4b01 aB*C$D$E*$
+   4b21 aB/C$D$E/
+   4b42 B C%D%E 
+   4b68 E/B*D$C"
+   4b8b aE/B%D$C 
+   4f10 B`Aa@hT
+   4f1e B`Ab@hT
+   54b1 aBaFb"
+   54c5 aBbFab
+   54d7 aBaFb&
+   54f5 aBaFb&
+   5505 aBaGb"
+   551d aBbFab
+   553b aBaFb"
+   554d aBbFab
+   5561 aBaFb"
+   5577 aBaFb&
+   5597 aBbFab
+   59a8 x0Q0r(
+   5a13 daeEaQ
+   5b96 ~5qoD 
+   5e4f 1B C P
+   5ed8 p@X%J 
+   5f58 [`@ A 
+   6273 `CmFoc
+   6979  A%B$C!
+   6c51 !A%B#C!
+   6fc2 |`P.A!
+   6fe9 @P#A"C&
+   7083 JP A"C9
+   7098 `jA Z$
+   70c6 bjP!A"[$
+   70e2 `kA Z$
+   7110 bkP"A"[$
+   7670 @`A D P
+   773c J`@%A!
+   827c lEB C P
+   8581 @@ E A
+   89c2 @*B!F*A
+   8d0a @(a^xCzB
+   8dcf D@ A!B 
+   8fee @9B$C 
+   911b OX%A B 
+   9126 @$A B 
+   a2a0 @3A B 
+   a2ac @$A B 
+   a7a9 C@!A!Q
+   aa59 V@ B'F 
+   aad6 HF0RH#A 
+   b1b9 DA!B!0
+   b2df #X%A B 
+   b306  D>A;@
+   b490  D>A;@
+   b5de G A b#d#
+   b732 D p"C 
+   b75c  D.A*@
+   c690 x%B&C!
+   c9b4 x(B$C!
+   c9f6 @#A B 
+   ca04 @%A B 
+   cbc0 .C/BE V
+   ccec p!A G 
+   cd00 G p#A C 
+   ceb0 @ A'B a
+   d4f6 `Q@` XAc
+   d645 cF!3_@ 
+   d710 PSVgXi
+   dade X%A B 
+   db3d !@<z?p
+   db8a B @+A#
+   dc1f !H!A C 
+   dcae B @(A!4
+   dcea p4A!C 
+   dd6e @%A B 
+   dd9a B @&A C 
+   ddba @ A"C P
+   de7e A"B%C 
+   dedc @"A B 
+   e816 !`#a b%`
+   e89c 4b5c6b
+   e931 0Ck@l3b
+   f92c @.A B 
+   f936 @0A B 
+   fd06 H"X:A B 
+   fe16 H#X;A B 
+   fe74  "$*H-
+   fed8 P$A B 
+  1003a @7A B 
+  10676 IJHIJK
+  10806 hhpZ@!R
+  10931 G@ A$B A
+  10994 d	I!B"0
+  10a01 HI!B!E!0
+  10a46 	@B!G!
+  10d66 `$ao`l
+  10e99 e	I!OacC 
+  10f70 %BX@ @Qe
+  10fa2 QbPcTd
+  11088 D B C 
+  111cc @gA,B4
+  111e7 $!`BbC 
+  11898 M@HBA p
+  11905 tM@HBA p
+  11e62 z-I70!I<
+  1219f DB C P
+  12278 J @ C 
+  12304 7Gx@0ExE
+  1233d  "G(B0!
+  124f9 j`iS`RaVe
+  1263a `mD! F
+  12642 'P)G+F
+  12660  d-A*@
+  126de @!qV@ 
+  129d2 @!1@@ $
+  12f14 9A ?!>	
+  13042 11 =!<
+  1341b +#9$24
+  13f2d Opcqa"
+  14e28 D @ A 
+  163dc A B E 
+  164d2 F E A 
+  16d01 `b`ab`hT
+  16dda sob`ab`hT
+  17166 G*A D 
+  171e2 qbSkB!
+  174f8 P!A B 
+  17628 BBA"B%S
+  179e5 d@(A!E!
+  18290 A b(G @
+  184a9 L@ A*B 
+  18573 dA!B F!
+  185f7 EP"A B 
+  1860b EP&A B 
+  1861f EP%A B 
+  18800 A`E C 
+  1897c H&A B 
+  18994 H'A B 
+  18ee4 @!1G@ 4
+  190ea @!1I@ 4
+  191e6 h0i`@!R
+  192ba @bB`CaE`
+  1935c :&PaQb
+  1936d 44aE!F!
+  19630 h!SjsQScsO
+  1963c d!P`F!
+  1991e tg4U@a
+  19e94  $lImH
+  19eae  $lDmC
+  1a316 Pj	@1 
+  1a3c9 `{:Z$C
+  1a90a F"xeyC
+  1af15 nB!C!6
+  1b136 A"B:C P
+  1b20e @bA B F 
+  1b262 @bA B 
+  1b318 A"B9C P
+  1b792 A B E 
+  1b810 A B E 
+  1b844 MDAe@ B 
+  1be80 D Ph0G
+  1c006 *33R<BT
+  1c021 #-7hhLV
+  1c125 Q@`A F 
+  1c46e  GGGG%)G/GGGG>
+  1c852 4a0bCc
+  1ca5c @ B"C!
+  1cdac 4lA"H2A$@
+  1cdde D @ B 
+  1ce20 2@B"D 
+  1ce32 D @ B G%
+  1ceca  pH)C E!
+  1d36c  pH)A!C 
+  1d5ba @ A-B 
+  1d5c8 @ A/B 
+  1d61c @ A+B 
+  1d630 @ A9B 
+  1d6a0 @ A1B 
+  1dab0 dgA G @
+  1db1f 3@ A.B 
+  1e017 @A"B"C 
+  1e038 A"B#C 
+  1e394 @*A$J 
+  1e3cc !B@.A 
+  1e42e )rErrPrfB
+  1e462 %u@.A 
+  1e59d 1A!B!3
+  1e5d2 A"B$C 
+  1e71a @$A B 
+  1e74f _@3A B 
+  1e9a2 dwA F @
+  1eb30 @+A D 
+  1eb8c H'A B 
+  1ec16 x[@"A 
+  1ec1e t[@!i4a
+  1ec3e d[@&y?
+  1ec46 `[@'A 
+  1ec4e \[@)A 
+  1ec56 X[@*A 
+  1ec5e T[@+A 
+  1ec66 P[@-A 
+  1ec6e L[@.A 
+  1ec76 H[@/A0
+  1ec7e D[@0y?
+  1eca0 3[HEIO
+  1eead RH&A B 
+  1ef45 444444
+  1efb6 pX@"A0
+  1f2fc P"A B 
+  1f500 A"B!C 
+  1f55a C`B!E!
+  1f5a4 @ &CAb
+  1f787 EA F @
+  1f826 +lP`Ye
+  1f9b7 RYF@!C!1
+  1fcb6 ZaPcA 
+  1fd38 ZiPgA 
+  1fe06 Ph DA!
+  1fe1c WhXiy`
+  1ff72 Ji@gA 
+  20114 0C@bUb
+  2021b %	i@!a^1
+  205da @3A B 
+  205f9 P@3A B 
+  20630 @$A E 
+  2064e @$A B 
+  20898 'c@ D 
+  20b1d (@%A,B
+  21064 _HB C P
+  213da A"B$C 
+  2170e ppX%J A
+  2185e @0A D 
+  21cee x?B!|?q
+  2200e @*A$B,C
+  22170 $@hAA 
+  2217e @ Q#B 
+  221d2 F[@!A 
+  222a4 @*A$B1C
+  2232a @*A$B,
+  2235a YLXHTdB
+  2238a Sc@#A&
+  2239c @*A$B,D&
+  223c0 @*A$B,D*
+  223dc @*A$B,D*
+  22400 Sc@#A!
+  226ac +8X&B&Q
+  226bb uX&B&Q
+  226db 8X&B&Q
+  22729 P@ %B 
+  22748 D'F%G 
+  228bc Kb@!E!A
+  22ad4 @ B*C!
+  22c74 @ Z$E 
+  23094 A J(D 
+  233e2 A"B$C 
+  2362e @6A D 
+  2376f 	A"@bE"
+  2377a E!@ C,
+  23a94 94@,A 
+  23ab8 tS@-A 
+  23ae5 GX5B.A
+  24086 PLA j0@
+  2429c @0A B 
+  242a7 E@.A B 
+  243ce p$B!C!
+  248c4 x!A B 
+  2498a H.A B 
+  25690 @&I B1
+  2569c @&Q B1
+  256a8 @&I B 
+  256b4 @&Q B 
+  25933 A``A E 
+  259a0 H$A D 
+  259ce H2A B 
+  25b0e @ B*C!
+  25e70 @+A B $
+  266b6 a@H)A B 
+  269b6 @-A B D 
+  269c2 @/A B 
+  269cc @3A B 
+  269d6 @%A B 
+  26cb9 !@ A$B 
+  270b4 !]]]DDD]
+  270c5 ]]D]]D
+  27250 @ @!A 
+  274e2 PcA#B'C!
+  274ec PcA#B'C$
+  274f6 PcA#B'C%
+  27500 PcA#B'C&
+  277be P$A"C 
+  27951 Zp`A!R
+  27e9c @!A'C!
+  27eae X<A'C B
+  27ebc X=A'C!B
+  2810d  HcpX@ 
+  28293 ExcpX@b
+  2830a @1A B C!D!
+  284f0 @ A"C B
+  284fe @!A"C B
+  28933 a0RA!R
+  28e70 X`XBXCXDXEXF
+  28ea3 I@$q(j S:
+  28ec2 X0@$q(A
+  28f16 A b(F 
+  28f86 A R"D 
+  292d2 )C(B.A
+  29a50 @ A,B 
+  29c76 u	@ A<B 
+  29f36 {{&{{{2{=HP
+  29f44  F@0A 
+  2a01e rj K@.A 
+  2a134 @5A D 
+  2a269 !@*A$B7
+  2a2bd LA D  
+  2a6e1 m@!D!q
+  2b27b `	`1%G
+  2b434 B(C!F G 
+  2b704 F!D E 
+  2b732 !cA`G E 
+  2b752 C(F!D E 
+  2b8ae @ A(B 
+  2be95 bA G @
+  2c3af a@$A C
+  2c4a2 A J(E 
+  2c613 NOCB7C.@
+  2c63f NOCB7C+@
+  2c67b NOCB8@
+  2c6b1 NOCB8P
+  2c76f MA0J3@
+  2cdf6 u b A b)
+  2cffb lYO*@c1
+  2d082 [O*@d#
+  2d194 YO*@E "
+  2d269 l)@ZO{#
+  2d2af 0\O*@f!
+  2d485 @A E `
+  2d87d NOCJ'@
+  2dfed !@ A?C p
+  2dffa @ A!C `
+  2e00c @ A?C p
+  2e054 @$A C&
+  2e0fe @$A C*
+  2e303 `@ A$B 
+  2e485 @E$F M
+  2e699 a+c)bHb*d
+  2e725 ICH@ B!
+  2e74e Nw@!A&
+  2e785 ICH@ J1C 
+  2e949 NOCJ;C p
+  2ea71 NOCJ C"
+  2ea7d ICH@ B6C 
+  2ead3 !A&C$P
+  2eb90 A B F P
+  2ebcb ICHJ4C 
+  2ecc1 NOCJ C 
+  2ed85 NOCJ:C 
+  2edb3 NOCJ:C!P
+  2efe8 @ A#J1
+  2f236 H%A!B 
+  2f408 	 @$B*
+  2f7f9 FA B D 
+  2f83a A b F 
+  2f963 [yH@3Q
+  2fc50 A b F p
+  2fcec A b D `
+  2fea6 A"A,C!
+  2ffb2 A&C!D!
+  30536 @+A B 
+  30548 I@XEYD
+  305b6 @+A B 
+  30840 !PxA[B
+  308f4 @+A B 
+  30a83 TA!B$P
+  30bca J A C!@
+  30c02 A B$C!@
+  30e1b NOCJ8C @
+  30e37 NOCJ9C @
+  3173f EA/B!@
+  3175f NOCJ6@
+  3177f NOCJ)@
+  317bb NOCJ7C @
+  3186d _XT0 0
+  3191b EA1B @
+  3192f FA B(@
+  31a84 @ $B"+
+  31b60 A!B C!E 
+  31b86 *1JJ6J;J\
+  31b9e hc0V)Iq
+  31dd1 ':B9A8@q
+  320f6 Y@ZD[E
+  32177 FA!B(P
+  321e7 UUUUUUE(BC!$
+  323cf \yEx@Q
+  32415 DA!B 0
+  3242b DA"B 0
+  3247d EA!B!0
+  32495 EA"B!0
+  32512 A J,F P
+  32543 `A!C0@
+  32717 HP$yBr
+  32826 !`A!C'@
+  328a4 !`A!C'@
+  32962 #P9GD!
+  32bc1 NOCJ)`
+  32d15 HB C P
+  32d59 FA B"C!P
+  32db1 GA B"C!P
+  33082 SHA!B"C!
+  33158 -@O1H1
+  335ef NOCB-C @
+  33a2f NOCB,c
+  33aa5 NOCB-@
+  33e68 e <C?B
+  33e70  D>A;@
+  340c9 FA!B"C!p
+  34325 ZjbXmi
+  34438 @$A C&
+  3494c / ic@0!
+  34eb9 !A B$C 
+  34ee5 !A B$C 
+  355b6 	fKcJaDb@2
+  359aa NPz`@2C"
+  35a99 E@$A R
+  35ac8 P	D pW
+  35b3e @$A C&
+  35c2b MjBkcm"
+  35f53 FH A"B!C
+  35fa0 @$A C"
+  362ec kdjcia
+  36691 a@$A C
+  3686c <ggggggWXBC!$
+  36a7a @$A C%
+  36b30 H A"B"C
+  36bf1 WIFf8Q
+  36e24 )d1^+`
+  36ece @$A C-
+  370f2 "`A!D!
+  372ad !z/C $
+  37786 L`A!B!A!B"
+  37d47  @<A#B 
+  37daa Ic@!D`
+  37dfa E @<A#B 
+  37f00 H"A"C3
+  37f0d ?B @<A#
+  38090 H A!B"
+  381ee a!A J(
+  38422 =ZA*J1
+  3843a =ZA)J1
+  3846c <PYAHF
+  389ac )3=GScejz|@
+  38c1f EA B!@
+  392b4 =z@!A&
+  39568 @ A!B 
+  39610 ZgYh]i
+  397bc ZM[L\O^N
+  39952 @ A$B!
+  39a5b F@!A&B
+  39a6b ICH@ z8C 
+  39cf1 0` A"B!
+  39d20 H$A!B 
+  39d83 NOCB9@
+  39e41 NOCJ=d
+  39e8d ICHz5T
+  39e9a @ A(B 
+  39f7b NOCJ>{?@
+  39fff NOCB9{?
+  3a037 QoDmCP
+  3a2c9 a@$A C
+  3a340 *14`C!4
+  3a41f !WdReV`D 
+  3a481 BxEpJ@ 
+  3a537 bi@jAkB
+  3a599 aY@ZA[B
+  3a7da ApIDH`
+  3b776 PRDEA8
+  3b990 MGHDN`
+  3b99a MGHDN`
+  3bc1c y?J:~?P
+  3bd34 ^6E B 
+  3bd6e PELBI:
+  3c276 lV@`^%
+  3c428 hA@#A B
+  3c4b5  C"F"@
+  3c844 ;PKCND
+  3c85c [PKCND
+  3cf94 (`iah`
+  3d0cc D@iGh`C"
+  3d676 #'06F p
+  3d6cb a!_Q7B!4
+  3d74f e@ A P
+  3e8b0 YDPg1I
+  3ea2b NJaH`Ibt
+  3ed8b E@$A R
+  3efb4 @$A C'
+  3f2a4 @$A C"
+  3f3fe B'HDaa0
+  3f64c  PD G 
+  3f792 @7A"B C#
+  3f894 DkD^Ag2
+  3fdfb lH4A!P
+  3fe35 AYGX`Z
+  3fe6c I@X`C"
+  4041c ID`g1O
+  40722 0-$aB 
+  40758 @)A B D 
+  408e6 .`A"B0C!
+  4090e A"B0C!
+  40994 A!B0C!
+  40a0a .@A B0C 
+  40b7a he YiLQ
+  40ebd EA B'S
+  40f6c A B!C!
+  40fbd (rZ@!U
+  41071 KA B!`
+  4112d j3jjjjeHBC!$
+  4131f FA B!P
+  4149e A B!C!
+  414e2 	#HJII
+  414fc $FF`&DP
+  41685 F@ A!B 
+  419a6 4PiIhJ
+  41cc6 !ccccccEYB
+  4211b GA"B"C 
+  4212f pKa0J@9
+  427b2 LAeiD 
+  42896 A"B'C!p
+  42a3a ```^@%R
+  42bd6 Jbaj@g
+  42bfc \,"@Ab
+  42c14 Jb@gi*
+  42c59 @JbCg8
+  42c6f @BgKb(
+  42d68 D B!C 
+  42efd B@b0O@b0M@`
+  43113 !X?z>C"@
+  431b1 !X?z>C"@
+  43264 HEpZHO
+  43293 CA"B/C"@
+  434c8 ``A B'
+  434f9  B(K8@
+  43750 x:B F 
+  43a01 !X>z<C"
+  43a11 !X>z<C!@
+  43a2e ZBx=C!
+  43c3d !X>z<C!@
+  43c9f  z<C!G!
+  43cb8 ZBx>C!
+  43cc4 YCZD[EE
+  43cf5 !X>z<C!@
+  43e04 '09HM@HHHHHT@
+  44062 %.7;OB77VbJ
+  4421b !X?z>C!
+  44263 !X?z>C"
+  44292 @i	AB$
+  442c7 7A B 3
+  44300 B$L<K&
+  44311 !X?z>C"
+  4432d DD>C'B"
+  4440d K@`	G!
+  444a6 A"B/C"@
+  44525 PA!B$@
+  44754 0M@`0K
+  448a5 `dcB H
+  44988 <A`m C@!
+  455da RnPbA!Q
+  45a4a PoA0B E 
+  45ab6 lAvi6Ppb
+  45b1c vihi0"
+  45b5c vihi0$
+  45c24 vihi0!
+  45c3b EA!B*@
+  45f25 0hdjc 
+  45ff4 [cZAQe
+  46075 pxJ`Dx@`B
+  462fc Fa6OH@
+  4647a Tb$XF @
+  464db PPm	FA$@
+  46604 @@Ecvb
+  466b7 !G#A C2
+  46781 @An@cP
+  46819 $A r8G 
+  46b7f YX@C0$
+  46c46 T@	`1 
+  470a2 A R0F 
+  4710c A @(B 
+  47401 `	a1 `
+  47500 h}``A=P
+  4759e }d~cza|b{`
+  475dd !F"C2A
+  4767f ru`@3P
+  4787d aXb0 @
+  4790c RP	a1 
+  47b2b hHi0 @
+  47b93 `OaJbK```P
+  47da6 ZA[b_dYcR
+  47e44 V5Zi_jd`T
+  47f17 U{dxEyFrea
+  481f5 `@kyAq
+  482aa D!@ E 
+  4846e 0`5a6`
+  48548 `eA B 
+  486d7 b3E`eA!B 
+  48c1a X@@%C 
+  4920e (*H A 
+  49f63 .D 1.D!
+  49f93 'D 1'D!
+  4a638 P/A#C 
+  4a64a P.A#C 
+  4a6d0 P0A#C 
+  4a886 A b D 
+  4a894 @\p`a 
+  4ad03 a@!A C!
+  4ad20 @"A C"
+  4ad3c @#A C#
+  4ae47 aHEKDNFLG
+  4b252 P2A"C 
+  4b27e P,A"C 
+  4b3a0 \@	B!D@
+  4b9b3 !H,B c
+  4bafd NHMA!0
+  4c159 `A$B B
+  4c309 HHI0 `
+  4c8f0 PcB G 
+  4cbeb OD E F
+  4cc93 P@ A A P
+  4ce36 F b @ 
+  4d2bc A j<D 
+  4d9f3 dXd0(p
+  4dc31 !A D P
+  4dc3f !A!G!P
+  4e0f6 E @ B 
+  4e1f2 MaHd0)
+  4e305 kB C P
+  4e3d2 JK@`A)
+  4e7d0 qfB E 
+  4e804 sxA)B0
+  4e8ba TyHc0"
+  4e90e [`_N^DZa
+  4ea4c 	aP`B!
+  4f30f !`+B!C!P
+  4f335 !@+B!C"P
+  4f450 pd0]	@
+  4f670  D>A?@
+  4f686  D>A?@
+  4f6be  D>A?@
+  4f9c8 0`y@E D!@!
+  4f9ee D`y@@!
+  50184 E'4RX0
+  5093b  @/C!R
+  50ad1 -E G!B
+  50b64 4[uT]EuR%
+  50bcb O^EZDP
+  50c29  @/C!r
+  50c7e F"@!B!
+  50d0a @*B"C!
+  5146c A!B C!
+  51be6 `cz<c(p
+  51c1c z<c'@$
+  51c2b 4z<['p
+  51ea0 *8FWnwPa	
+  52604 A%B>C 
+  5261f m@`I'B 
+  528e7 BXdYa5
+  52915 kXiYh5
+  52942 E A!B 
+  530f5 !rZI!@
+  5367b KP`A.C 
+  536c6 `0P`A.B
+  53783 I@`A2B 
+  5382f `@!@ W
+  53970 @`A$C 
+  53a26 LT@`A2B 
+  53c1c 1d @qlP
+  53c73 !@,J"$
+  53eee J@@`A1B 
+  54021 @P`A+B 
+  54046 P`A*B!
+  54053 AA&B P
+  54105 AP`A*B 
+  54114 P`A+B 
+  54146 d`@(J"
+  542e1 bjCA 2
+  5464e @`A2B 
+  54988 C!h@ S`
+  54db6 x>B"C!
+  55491 BB D Q
+  555d4 X%rB@!
+  556fb S@ B#1
+  55d6d Q$b@!E
+  56206 e`XhA!
+  563c7 !jAE A!2
+  56a9c A B!C!
+  56e42 $,+A,@-B3
+  56ff3 l^C_Bf
+  5700b gZG[F"
+  57021 gZK[J"
+  57187 9>Xu`P
+  571f8 p` BA 
+  572b0 @`A2B 
+  574d6 @`A$C 
+  57526 LT@`A2B 
+  57701 1H*A1@
+  577cc ykxlzm}n{aP
+  57830 xiyjzk}l~m
+  57abc j+)C!TP
+  57b7c $bB C J
+  58142 no@`	`
+  58288 4b6c5a
+  58614 *`0`A 
+  588c0  dF G B!
+  58952 #d eA B 
+  58e74 T0A D 
+  58f0c T0A D 
+  59add lx?J(Q
+  5a50f PA b P
+  5a5ac @,B!D!
+  5a867 `\@4%4
+  5a873 "C0O0`
+  5ae49 $B C A 
+  5b2ea `ETRC 
+  5b37a @ A E 
+  5b4a5 MB C P
+  5b750 0PIMh@
+  5be40 #SB G!
+  5be4a G A F 
+  5becd b@!B!!
+  5c1d5 `@ A P
+  5c3ba @"A'C 
+  5c4d8 @#A!G!
+  5c7f4 @ B?F C 
+  5cbf6 E!F!G!D!A!H
+  5cca2 E F G D A A
+  5d0df CFI'RF
+  5e548 H'A#C 
+  5e55a @ B%C 
+  5eabe s`rai@C
+  5f32a D#@ C!B
+  5f82c @)A!C 
+  5faa4 {czDxd
+  5fc1a @@@$B A
+  5fe0a P`B G 
+  5fea4 YdP`B 
+  60db5 h@ F Q
+  6123f aA B F 
+  6146a :'`aab
+  6160d KIbMCT
+  61627 XIbMCT
+  619ce h@0Q@ `
+  61a0d Bah!QB
+  61adc Ch@a3b
+  61b93 J@!E Z
+  61dcf Eba@fi
+  61e20 @}	H@f
+  62012 `j0Val1T
+  62087 fAcBb"
+  6255f !C F @
+  626d0 }@Y$J p
+  62acf UB C P
+  62c48 l`(A)C+B,@
+  62d14 x`	@@!
+  6340c @!!L@ $
+  63522 h@ YE 
+  636f4 IBH`B 
+  63b98 :&PaQb
+  63f61 W@aQ a
+  6428d [{EB`Ah
+  642c4 {EB`A 
+  6433a Ei{EYg
+  64383 +vv9CP
+  643c5 ehG RP` P
+  6441e 'LjAA0
+  645cc T@A G 
+  64996 L`A G P
+  64a98 PhRjA 
+  64af1 &D$@#D
+  64b05 %@#A"4
+  64bac OggSA!
+  64bda D#A!@"
+  64c9f fB}	N i
+  64dc3 BhCpK`e
+  65283 UB C P
+  65563 E"a#aB 
+  65a47 0L/@ D 
+  65c90 /0| @ D 
+  65e11 **/258;>A@
+  661bf BX#B'A
+  662cf 92a@ q
+  667a6 HAH@HCHB@!R
+  667ba H A C D 
+  66880 @ B*C 
+  66922 @ B*C 
+  6705f AH@HAHIHJ
+  6792c 	A	B	C	D	E	F	GA 
+  679a6  T(C+B
+  68840 a`E!@!
+  68b9c y z>C#
+  68baf !E z>C#
+  68e52 u,B C P
+  68fd2 h@PThAR
+  69038 H#B F 
+  69065 !X?z>C!@
+  69193 dz>K"g
+  691ab eH)B(C+g
+  69219 !X?z>C"@
+  698a5 e@.B(C+
+  69bd3 A``0[P
+  69fb8 +`@<B 
+  6a369 )m@A!`
+  6a6ca p`iAk@
+  6aa59 8B(K+D
+  6aad7 8B(K:$
+  6b065 cx7B &
+  6b3df cA!@*B 
+  6b4be xC`H@ 
+  6b619 `@$A;@#A=
+  6b789 8z<c$@
+  6bba9 e@8B(C(P
+  6bc99 eB&S @
+  6bd1f  B(S @
+  6bd8f e@%B(S @
+  6bdad eB&S @
+  6c077  z>C:P
+  6c0a7 eB&K=P
+  6c313 !X?z>C"P
+  6c371 cH6B s
+  6c43b e@%B(S!P
+  6c643 eB&K=P
+  6c869 eHDz>C>P
+  6c9f7 pH6B C
+  6ca51 ez>C<d
+  6ca6d !X?z>C"P
+  6cab1 ez>C;D
+  6cb75  B(S!P
+  6cbdd  B(S P
+  6ccda \PxAD 
+  6ce12 0@hAE 
+  6cf62 DeDdK$
+  6d010 'd'eJ C0P
+  6d042 }DiB@ 
+  6d1f2 80A!E!@
+  6d34a 	lll2MlOUllllal]c
+  6d378 L	 S	N!QA 
+  6d675 e@4B(K3@
+  6d6b1 w?<BwNQ
+  6d7d9 !.%...0A!
+  6d9ab 0A!B*@
+  6da47 eB(K+@
+  6db0f AjHiDhCP
+  6dd3e lAuh%^Xa0
+  6dd5f 7A!B @
+  6e066 lAWh'SxB
+  6e093 7A!B @
+  6e541 d@ K>@
+  6e55b !@?{>@
+  6e579 !@?{>@
+  6e789 aXBIAR
+  6e885  B(C7@
+  6ea01 8B(C7@
+  6eac9 eH#B(C7@
+  6eaf7 ehcidjenf
+  6eb73 >A!B E!
+  6ebd0 pA`k T
+  6ec24 zB@ A!
+  6ec75 `A"B%@
+  6efbe `kR`	d``
+  6f463 pp`0 4
+  6f54b pp`0 D
+  6f82f Abm`jA 
+  6fbaf A@!i@bl
+  6fc6d @ZDYcX
+  710e9 PTbAhHj
+  7173e J!A F 
+  71c9a pbA!B'
+  72178 z%0a1b
+  72189 t4aE!F!
+  725b5 eA!C E 
+  72be0 h@B"F$
+  72f1c rbpaA E 
+  73014 qcF z?e
+  7336e A r<E 
+  733e8 A r<F 
+  73671 #IaJ`!
+  73719 #JaK`2
+  73a36 apPbQf
+  73d88 !0@ D 
+  74594 D pbp[qaqY
+  74988 H0A!C E!
+  74b17 GhAG 0
+  74bc2 Be@c#bB"
+  74d76 GdpeY$
+  74dc2 CeBhAg@c3b
+  74e04 EdXCI@
+  74e30 WdxCY@|
+  7550c A B&E 
+  75ae9 AC#XHF!
+  76104 LPZOA 
+  76861 TTTT-TTT1
+  76f51 #D E C F 
+  7723a @ D C 
+  7738f *07>ELS[
+  773d0  F%cF 
+  77536 XCA B!C 
+  77808 E`A F 
+  7788d `Pb GP
+  77b04 'Vjaae
+  77bbd hA F @
+  77d5c IGB C"
+  77eac AW@ A P
+  77fc1 a@!Ac&c
+  78107 SB!F!@
+  78405 aB$@ R
+  78595 `G "@P
+  785e7 JA B `
+  78739 M(X+}0
+  787f9 `pRSaQf
+  788bb ESaQf4ac
+  788eb A@!RaSg
+  789a1 apRR`#ab
+  78a44 Bai@@"
+  78a4b A@!A`kH
+  78a7d apSB`#a
+  791df `&b'`?
+  791e9 a&c'a?
+  79409 `1b7`?
+  79413 a1c7a?
+  79576 QcBi&a
+  795e8 Bi@g#la#B 
+  79845 la#B F 
+  79868 KEJi@`
+  79d48 Qbp`JA
+  79d58 Qcp`JA
+  79e53 c YKdE 
+  7a7b0 Y8R0c 
+  7a7be a R0[8`
+  7a7d7 GY8R?c `
+  7a7e6 Y8R?c `
+  7a933 @B!E!3
+  7ab5b @F A 0
+  7ac0b ?C!G!6
+  7aeba L!Af@i@
+  7bc77 ;-;U;z;
+  7bc87 <0<I<`<w<
+  7bca1 =(=6=C=P=]=i=t=
+  7bcd7 >#>)>/>5>;>@>E>K>P>U>Z>^>c>g>l>p>t>y>}>
+  7bf3d GAn@aJ
+  7c004 zmC0F$S F&
+  7c1d0 WaEbFaH
+  7c784 DBG_REV
+  7c7a0 flash_powerup_ok
+  7c7c0 flash/res/p11_code.bin
+  7c928  $%**0/65<
+  7cb01 *q+\,A-".
+  7d7fa A B!C!
+  7de05 GIKB!P
+  7dff9 XuA@ Q
+  7e180 L`_a^bP
+  7e6b0 C`EaF`
+  7e7e9 JQh@`1
+  7e91e mdlcjaobP
+  7ef6b bE G F
+  7f84a  @JgPl
+  7f91e 0I	B1G
+  7fb2f BXA ZhB
+  7fcac A"B/C"@
+  7fd3a [cZAQe
+  7ff2c A"B1C(E"@
+  800ea A!B&E!@
+  80328 D`YcZb
+  8048c D@pg VHE T@
+  805dc  @pk	g
+  805fb @4\A R
+  80927 &@ A B(C!
+  80995 D*@Kj2
+  80aa8 bc	N i
+  80fe4 Hgbjai
+  81055 JhgPUHfIg
+  8154f EBn@aA 
+  818f3 cB0C$P
+  8197a B!C D 
+  81a29 bA B43
+  81a83 aA B43
+  81d30 B!C D 
+  81e71 aA B43
+  8233a B!C D 
+  823ef aA B43
+  8244f bA B43
+  82aa0  a$f%e
+  82fb2 ;QAbE`
+  82fd2 [1AjCh
+  83315 f$c%`T
+  83353 S#a&f!e?
+  83ead 4deehJ
+  83f59 d!`$e'd
+  83fc2 KS#a&f'e<
+  840bf 4 a%f&e
+  84154  a%f&e
+  84193 9BiCl(
+  84abe C @!"#
+  85200 @ E!F!
+  8623c Bf@b!-
+  862f6 C E!&.
+  8656c @!B!#*
+  86d79 AA B/ 5
+  86d85 M$5Ce0
+  870e4 F1D @!
+  8769d t ~#u4
+  8859c $1@cBfAmCo
+  888ba D @!A!?
+  88a11 "E @!A!
+  891be @ B!A!
+  891c5 AA C!$4
+  893d3 	A &5`
+  89dc8 :pA B! 5
+  8a2d1 !"a'1sfTaU`
+  8a592 @ $5!$
+  8aace P@BgpcAf[
+  8ab6e X8A5F5r
+  8b043 nVF;3-(%!
+  8b068 						
+  8b118 ~|wmW)
+  8b1e9 ZPKE?81("
+  8b1fe ndZTNGA:3-' 
+  8b213 vng]VPKFA;5/(
+  8b228 ~wph_YSNHB<6/' 
+  8b23f xrga[UNHB<6/)#
+  8b255 |qke_XRLF@93-'!
+  8b26b {uoib\VPJC=71+$
+  8b282 yslf`ZTMGA;5.
+  8b298 }vpjd^WQKE?8-
+  8b337 2)4K6o8
+  8b345 A-CPEoG
+  8b525 ~{~j~Y~H~6~$~
+  8b541 }s}]}G}1}
+  8b557 |s|Z|A|'|
+  8b56b {h{K{.{
+  8b57b zyzZz:z
+  8b58b yuySy1y
+  8b5a7 w{wTw-w
+  8b601 oso>o	o
+  8bc77 ~h~F~"~
+  8bc8f |p|=|	|
+  8c05d m$l<kPj_iihngofleddXcGb2a
+  8c215 k@iOgKe6c
+  8c243 0{-U*('
+  8c3d8 "$&')*+,-.//123456779:;<=>??ABCDEFGG(
+  8c3fe !)059=@BEGIKLNPRUWY[\^`begiklnpruwy{|~
+  8c427 '3<CIOSW[^adfikosvy|~
+  8c450 1ANYckrx~
+  8c473 !:Oap}
+  8cc9b B$mLDBl
+  8ccc7 Qjb!SVaeT=`
+  8ccf5 U<`fTUa"Sjb
+  8cd25 EAlMD$m
+  8d472 \N\O\NZOt)s(r(
+  8d49c =rF`JXKXWJYB[Cd;l2x(z%a+N2SNTQXKVJWGZI]J]Jm(r$u"u"
+  8d4e2 6s?fBbEcJYG[I[NYVP\B]@f;g<h<u4{,
+  8d506 a&M-=Z]<i*k)n-t&q&p&|
+  8d536 ;nGVKUTS[BXIWH\KbHi:k6s4r7p8
+  8d55a b#M**y`Bl+o(u,{ x$w!
+  8d58a ?rJRTS\Rg>`H`CeIkHq7v4}4v4u7
+  8d5c5 gd\UQMHFNKIGNJEHFJLG<<<<<
+  8d5ec   !""#$$%%
+  8d824  (08@HPX`hpx
+  8da3b @333?	
+  8da5a @@333?
+  8dadb ?333?	
+  8db7b @333?	
+  8dc1a @@333?	
+  8dcbb @333?	
+  8dccb @333?KA
+  8ee84 DBG_REV
+  8ee95 DBG_ALNK0
+  8eea6 DBG_AUDIO
+  8eeb7 DBG_ISP
+  8eec8 DBG_PAP
+  8eed9 DBG_PLNK
+  8eeea DBG_SBC
+  8eefa 	DBG_AAC
+  8ef0c DBG_AES
+  8ef1d DBG_SD0
+  8ef2e DBG_SD1
+  8ef3f DBG_SPI0
+  8ef50 DBG_SPI1
+  8ef61 DBG_SPI2
+  8ef72 DBG_UART0
+  8ef83 DBG_UART1
+  8ef94 DBG_UART2
+  8efa5 DBG_CTM
+  8efb6 DBG_ANC
+  8efc7 DBG_SRC_SYNC
+  8efd8 DBG_IIC
+  8efe9 DBG_VAD
+  8effa DBG_TDM
+  8f00b DBG_AEC
+  8f01c DBG_Q32S_IF
+  8f02c  DBG_Q32S_RW
+  8f03d !DBG_AXI_M1
+  8f04f DBG_AXI_M2
+  8f060 DBG_AXI_M3_DCP
+  8f071 DBG_AXI_M4_JPG
+  8f082 DBG_AXI_M5_IMB
+  8f093 DBG_AXI_M6_IMD
+  8f0a4 DBG_AXI_M7_IMG
+  8f0b5 DBG_AXI_M8
+  8f0c6 DBG_AXI_M9
+  8f0d7 DBG_AXI_MA
+  8f0e8 DBG_AXI_MB
+  8f0f9 DBG_AXI_MC
+  8f10a DBG_AXI_MD
+  8f11b DBG_AXI_ME
+  8f12c DBG_AXI_MF
+  8f13d DBG_AXI_1F
+  8f14e DBG_USB
+  8f15f DBG_FM
+  8f170 DBG_BT
+  8f181 DBG_FFT
+  8f192 DBG_EQ
+  8f1a3 DBG_FIR
+  8f1b4 DBG_DCP_NO_USE
+  8f1c5 DBG_JPG
+  8f1d6 DBG_IMB
+  8f1e7 DBG_CPU0_WR
+  8f1f8 DBG_CPU0_RD
+  8f209 DBG_CPU0_IF
+  8f21a DBG_CPU1_WR
+  8f22b DBG_CPU1_RD
+  8f23c DBG_CPU1_IF
+  8f24d DBG_CPU2_WR
+  8f25e DBG_CPU2_RD
+  8f26f DBG_CPU2_IF
+  8f280 DBG_CPU3_WR
+  8f291 DBG_CPU3_RD
+  8f2a2 DBG_CPU3_IF
+  8f2b3 DBG_SDTAP
+  8f2c4 MSG_NULL
+  8f51e AT+CHUP
+  8f528 AT+BLDN
+  8f532 AT+VGS=10
+  8f53e AT+VGM=10
+  8f54a AT+CLCC
+  8f559 AT+IPHONEACCEV=1,1,9
+  8f570 AT+APLSIRI?
+  8f57e AT+BVRA=1
+  8f58a AT+BVRA=0
+  8f596 AT+CCLK?
+  8f5a1 AT+BIA=0,1
+  8f5ae AT+CGMI?
+  8f5b9 AT+CNUM
+  8f5c3 AT+BCC
+  8f5cc AT+OESF=6,11
+  8f631 JL_A2DP
+  8f67f JL_HFP
+  8f6dc JL_HID	
+  8f6e7 hid key	
+  8f87b JL_SPP
+  8ff27 injKk$l
+  8ffe3 l$lKknj
+  9020a OpusHead
+  90238 >OpusTags
+  90245 Lavf59.17.102
+  9025a encoder=Lavc59.21.100 libopus
+  90b3a -PK4,$
+  91406 '*%./%
+  91841 "(-&273.+/%$.(
+  91b99 $L|}P>
+  9239a A=3160
+  9302b $$%()(#"
+  931e0 $ ",-+0,..+
+  934d3 >?B->r
+  9352a z>HAw?
+  985cb ?$&l?.b
+  9aea7 ?p5D?KG
+  9d703 ?/nZ?5
+  9d789 BS?\	m?
+  9f6d9 +c?wTw?
+  9f87e 4D	EUB
+  9f936 	o&2"1
+  a1c91 IB?!M<?
+  a1c99 ]7?DC7?Ey6?HYN?
+  a1caa B?/	B?
+  a1cc1 3K?JtW?
+  af588 " 31..-$
+  af848  #%&&!"#$*))))%
+  af8c3 $#,%*&2-(
+  af8cd +253&#
+  af95e &%'%&/5707/=;99<E9/1351/-.
+  b01d0 -2$.&#"
+  b04be %".5.'
+  b0bb5 !!+')339=<N
+  b11db +EJKB64&
+  b162d 28ACESMNF8,
+  b16e0 *>B;44=:;>>EE>13/BA5)',
+  b1987 3872&*&)+)
+  b1db3 >'a1>a
+  b4647 ?@er?^
+  b6ea3 ?-4W?#
+  b6eed ad?p>z?
+  b6f22 N?~1k?
+  b6f2e b?i%|?k~
+  b974f ?s0h?~
+  b9799 7r?UBi?
+  bbfb7 ?4`}?	E
+  bc00e p?k,j?
+  bc017 ?8`k?C:q?E
+  bc046 J?ITP?
+  c055e C?WN8?
+  c056a =?{-K?:5H?F
+  c057d eD?IfP?z
+  c059a >??j;?_
+  cd893 	IDLE0
+  cd8e9 jl_kws
+  cd8f0 (none)
+  cd8f7 iPhone
+  cd8fe F1111A
+  cd905 112222
+  cd90c 11C010
+  cd913 SDFILE
+  cd91a sdfile
+  cd921 jl0001
+  cd928 MusicEq
+  cd930 %d.opus
+  cd950 Vol_Sys
+  cd958 Vol_Btd
+  cd960 Vol_Btc
+  cd968 Vol_Btm
+  cd970 logxxxx
+  cd978 I2cTask
+  cd980 xCommon
+  cd988 btstack
+  cd990 b102211
+  cd998 btencry
+  cd9a0 b04C008
+  cd9a8 1H11c08
+  cd9b0 111C014
+  cd9d0 res.bin
+  cd9d8 ver_info
+  cd9e1 reset_io
+  cd9ea link_key
+  cd9f3 power_io
+  cd9fc ai_voice
+  cda05 dev_flow
+  cda0e MusicDrc
+  cda17 SurMedia
+  cda20 Eq*Media
+  cda29 EscoDlEq
+  cda32 EscoUlEq
+  cda3b adda_adc
+  cda44 MIN_TASK
+  cda4d DAY_TASK
+  cda56 20160808
+  cda5f a2dp_dec
+  cda68 file_dec
+  cda71 esco_adc
+  cda7a zero tag
+  cda83 io error
+  cda8c license:
+  cda95 10000000
+  cda9e 746D7031
+  cdaa7 6c656272
+  cdab0 746D7032
+  cdab9 62726C65
+  cdac2 btctrler
+  cdacb 1H114444
+  cdad4 SRC_%d%d
+  cdadd app_core
+  cdae6 20230626
+  cdaef Drc*Media
+  cdaf9 adda_loop
+  cdb03 HOUR_TASK
+  cdb0d DeleteAll
+  cdb21 123456789
+  cdb2b audio_vad
+  cdb3e "F1111C013
+  cdb49 autotest
+  cdb53 1111C0101
+  cdb5d 1HA111221
+  cdb67 flash.bin
+  cdb71 flash/res/
+  cdb7c led_driver
+  cdb87 mnt/sdfile
+  cdb92 +CME ERROR
+  cdb9d AT+BCS=2
+  cdba8 Apple Inc.
+  cdbb3 AT+VTS=0
+  cdbbe jlstream_0
+  cdbc9 jlstream_*
+  cdbd4 flash*.bin
+  cdbdf Vol_SysRing
+  cdbf8 Vol_BtcCall
+  cdc04 Vol_SysTone
+  cdc1c stream full
+  cdc70 00000000000
+  cdc7c AT+CHLD=2
+  cdca0 1H11AAA2221
+  cdd0c ver_info_ext
+  cdd19 StopDownload
+  cdd26 tone_en/bt.*
+  cdd33 Vol_BtmMusic
+  cdd40 Vol_SysKTone
+  cdd4d moy_recorder
+  cdd74 AT+BRSF=011
+  cdd81 222212222222
+  cdd8e app_dir_head
+  cdd9b EXT_RESERVED
+  cdda8 pilot_lamp_io
+  cddb6 end-of-stream
+  cddc4 app_area_head
+  cddd2 array overflow
+  cdde1 bytes overflow
+  cddf0 size too large
+  cddff callback error
+  cde0e flash/app/btif
+  cde40 MGlasses-living
+  cde60 translation_ear
+  cde70 UseUartRecvTask
+  cde80 UseUartSendTask
+  cdea0 varint overflow
+  cdeb0 callback failed
+  cdec0 wrong wire type
+  cded0 string overflow
+  cdee0 flash/app/MAUTH
+  cdef0 tone_en/awake.*
+  cdf00 tone_en/error.*
+  ce001 JL_btcon_ENCRYPT
+  ce012 flash/res/md5.bin
+  ce024 wifi start failed
+  ce036 invalid wire_type
+  ce048 no malloc support
+  ce05a integer too large
+  ce06c invalid data_size
+  ce07e lmp_default_stage
+  ce0b4 check succ !!!!
+  ce0c6 tone_en/game_out.*
+  ce0d9 tone_en/key_tone.*
+  ce0ec zero-length string
+  ce0ff invalid field type
+  ce112 batasr init succ
+  ce13c tone_en/power_off.*
+  ce150 tone_en/tws_dconn.*
+  ce178 bytes size exceeded
+  ce18c unterminated string
+  ce1a0 submsg size changed
+  ce1f0 batasr init error
+  ce204 batasr_lib_uninit
+  ce218 check error 3!!!!
+  ce22c check error 2!!!!
+  ce240 check error 1!!!!
+  ce254 http://%u.%u.%u.%d%s
+  ce269 flash/res/stream.bin
+  ce2ac failed to set defaults
+  ce2c3 missing required field
+  ce2da flash/res/cfg_tool.bin
+  ce2f1 batasr_stop_proccess
+  ce308 first sign result %d
+  ce350 TakePhoto: Invalid mode
+  ce380 array max size exceeded
+  ce548 mnt/sdfile/boot/otp_cfg
+  ce560 batasr_start_proccess
+  ce578 second sign result %d
+  ce590 rtsp://%u.%u.%u.%u:%u/%s
+  ce5a9 FileDelete: Invalid type
+  ce5c2 invalid field descriptor
+  ce5db AT+BIA=
+  ce5f4 %02X%02X%02X%02X%02X%02X
+  ce60d AudioCtrl: Invalid action
+  ce627 VersionInfo: Invalid type
+  ce724 err simple_protocols : 0x%x
+  ce75c mnt/sdfile/EXT_RESERVED/MDATA
+  ce77a mnt/sdfile/EXT_RESERVED/MFLAG
+  ce798 wifi mode not support: p2p-gc
+  ce8f5 (>gwrong size for fixed count field
+  ce919 BatDestroyInst failed, ret = %d
+  ce93a BatStopProcess failed, ret = %d
+  ce95b incorrect fixed length bytes size
+  ce97d BatStartProcess failed, ret = %d
+  ce99f buttonDetection,
+  cea0c 00000000 00000000 00000000 746D7031
+  cea30 00000000 00000000 00000000 746D7032
+  cea78 lmp_master_stage_auth_with_pin_code
+  ceaec FileSyncOtaPackage: Failed to start ota
+  cebb3 6FileSyncOtaPackage: 7018 use jl SDK to upgrade
+  ceec0 ddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeffffffffffffffffffffffffggggggggg
+  cef13 CIEVVGSVGMBRSFCINDCLCCCLIPCNUMBSIRCME ERRORAPLSIRIXAPLBVRACCLKCCWACHLDCGMIBCSBINDVDSF
+  cf08c ccccccccccccddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeffffffffffffffffffffffffggggggggggggggggg
+  cf244 service
+  cf262 callsetup
+  cf271 call_setup
+  cf280 callheld
+  cf28f signal
+  cf2ad battchg
+  cf2bc AT+BRSF=16
+  cf2ce AT+BAC=1,2
+  cf2e0 AT+CIND=?
+  cf2f2 AT+CIND?
+  cf304 AT+CMER=3,0,0,1
+  cf316 AT+CHLD=?
+  cf328 AT+BIND=2
+  cf33a AT+BIND=?
+  cf34c AT+BIND?
+  cf40e A!:gB!:
+  cf416 B!:7C!:
+  cf422 A)9gB)9
+  cf42a B)9gC)9
+  cf436 B)87C)8
+  cf7c8 y0h6u}
+  cf881 PY?Mb4
+  cf98b           !!!!!!!!!!!"""""""""""#############$$$$$$$$$$$$%%%%%%%%%%%%%%&&&&&&&&&&&&&&&'''''''''''''''''''''''''''''''UU
+  cfca0 AT+CMEE=1
+  cfcbc AT+CLIP=1
+  cfcd8 AT+CCWA=1
+  cfcf4 AT+NREC=0
+  cfd10 AT+CGMI?
+  cfd2c AT+VGS=07
+  cfd48 AT+VGM=07
+  cfd64 AT+CNUM
+  cfd80 AT+XAPL=ABCD-1234-0100,10
+  cfdb8 AT+VDSF=1
+  cfdd4 AT+VDBTY=3,1,1,2,1,3,1
+  d01e1 .DAoSsePw
+  d01ef ,K=nNm_Jp
+  d0211 @2O@^2m	|
+  d029e )(12.<
+  d02d5 'y0S9$B
+  d05a1 !s"V#;$!%
+  d05b7 +|,l-\.N/@031&2
+  d05e5 AzBoCdDYEMF@G3H%I
+  d0607 QnRVS=T"U
+  d075f V"U=TVSnR
+  d0779 J%I3H@GMFYEdDoCzB
+  d07a9 3&231@0N/\.l-|,
+  d07c5 &!%;$V#s"
+  d0848 cccc||||wwww{{{{
+  d085c kkkkoooo
+  d0870 gggg++++
+  d089c YYYYGGGG
+  d08d4 &&&&6666????
+  d0944 uuuu				
+  d095c nnnnZZZZ
+  d0968 RRRR;;;;
+  d09a4 [[[[jjjj
+  d09b4 9999JJJJLLLLXXXX
+  d09d8 CCCCMMMM3333
+  d09f8 PPPP<<<<
+  d0a70 ~~~~====dddd]]]]
+  d0a84 ssss````
+  d0a98 """"****
+  d0acc 2222::::
+  d0ae0 $$$$\\\\
+  d0b10 7777mmmm
+  d0b28 llllVVVV
+  d0b38 eeeezzzz
+  d0b4c xxxx%%%%....
+  d0b88 pppp>>>>
+  d0b94 ffffHHHH
+  d0ba8 aaaa5555WWWW
+  d0bfc UUUU((((
+  d0c20 BBBBhhhhAAAA
+  d0cd3 =j&&LZ66lA??~
+  d0d77 }{))R>
+  d0e98 f""D~**T
+  d0ecc V22dN::t
+  d0f50 o%%Jr..\$
+  d10d4 &&Lj66lZ??~A
+  d11b4 99rKJJ
+  d1274 ==zGdd
+  d1298 ""Df**T~
+  d12cb ;22dV::tN
+  d12e0 $$Hl\\
+  d130f C77nYmm
+  d1350 %%Jo..\r
+  d13ac 55j_WW
+  d14dc &Lj&6lZ6?~A?
+  d167b ~=zG=d
+  d16a0 "Df"*T~*
+  d16d4 2dV2:tN:
+  d1757 x%Jo%.\r.
+  d17b3 a5j_5W
+  d187a ggV}++
+  d18dc Lj&&lZ66~A??
+  d1908 bS11*?
+  d1958 Xt,,4.
+  d1972 RRvM;;
+  d19e6 MMfU33
+  d1a02 PPxD<<%
+  d1a3c Bc!! 0
+  d1a7a ~~zG==
+  d1aa0 Df""T~**;
+  d1ad4 dV22tN::
+  d1b56 xxJo%%\r..8$
+  d1b92 pp|B>>q
+  d1bb2 aaj_55
+  d1c06 UUPx((
+  d1cab l$lKknj
+  d1fef injKk$l
+  d20e7 	*	H	f	
+  d2299  6 O g 
+  d22ad !.!F!_!x!
+  d22c1 "$"<"U"m"
+  d22d7 #0#H#a#y#
+  d22eb $"$:$S$k$
+  d2301 %+%C%Z%r%
+  d2317 &1&I&`&x&
+  d232d '5'M'd'|'
+  d2341 ( (7(O(f(}(
+  d2355 (	) )7)N)f)})
+  d236f *5*L*c*z*
+  d2385 +2+H+_+v+
+  d239b ,,,B,Y,p,
+  d23b1 -$-;-Q-g-~-
+  d23c9 .1.G.].t.
+  d23df /%/;/R/h/~/
+  d23f7 0.0D0Z0p0
+  d240f 141J1`1v1
+  d2425 2#292N2d2z2
+  d243d 3&3;3Q3f3{3
+  d2455 4&4<4Q4f4{4
+  d246d 5%5:5O5d5y5
+  d2485 6!666K6`6u6
+  d249f 717E7Z7o7
+  d24b7 8)8>8R8g8|8
+  d24cf 9 949I9]9r9
+  d24e9 :):=:R:f:z:
+  d2503 ;0;D;X;m;
+  d251b <!<5<I<]<q<
+  d2535 =$=8=L=`=s=
+  d254f >%>9>L>`>t>
+  d2569 ?$?8?K?_?r?
+  d2583 @!@5@H@[@o@
+  d259f A/ACAVAiA|A
+  d25b9 B)B<BOBbBuB
+  d25d3 C C3CFCXCkC~C
+  d25ef D(D;DMD`DsD
+  d260b E.E@ESEfExE
+  d2627 F2FDFWFiF|F
+  d2641 G!G4GFGXGkG}G
+  d265d H!H3HFHXHjH|H
+  d267b I1ICIUIgIzI
+  d2697 J-J?JQJcJuJ
+  d26b3 K'K9KKK]KnK
+  d26d1 L1LCLTLfLxL
+  d26ed M'M9MJM\MmM
+  d270b N-N>NPNaNrN
+  d2729 O0OBOSOdOuO
+  d2745 P!P2PCPTPePvP
+  d2763 Q Q1QBQSQdQuQ
+  d2783 R/R@RQRaRrR
+  d27a1 S+S;SLS]SmS~S
+  d27bf T$T5TETVTgTwT
+  d27df U-U=UMU^UnU
+  d27fd V"V3VCVSVdVtV
+  d281d W'W7WGWWWgWwW
+  d283d X)X9XIXYXiXyX
+  d530c Hello_echo
+  d613c hello_echo
+  d615c Take_a_photo
+  d617c Take_photo
+  d619c Take_a_video
+  d61bc Start_recording
+  d61dc Answer_call
+  d61fc Reject_call
+  d621c <eps2>
+  d623c Start_audio_recording
+  d625c Stop_audio_recording
+  d627c Stop_recording
+  d629c Play_music
+  d62bc Pause_music
+  d62dc Previous_track
+  d62fc <eps3>
+  d631c Next_track
+  d633c <eps4>
+  d635c Increase_volume
+  d637c <eps5>
+  d639c Decrease_volume
+  d63bc <eps6>
+  d63dc Find_my_phone
+  d63fc Check_battery
+  d641c Power_off
+  d643c Photo_Recognition
+  d645c Nihao_Xiaoke
+  d647c Echo_power_off
+  d7f2f MNOp!u
+  d98e8 0v"x`v
+  d990e 5]"xev
+  d9bba @APQRSTUVFEDCB
+  da0a6 flash/app/dlog
+  da0b9 pll_trim
+  da0c2 flash/res/config.dat
+  da0d7 flash/app/exif
+  da0e6 serial_num
+  da0f1 jl_rcsp_ble_test
+  da102 audio_cvp
+  da10c audio_dac
+  da11a channle_swap
+  da127 cvp_dms_dns
+  da133 effect_dev1
+  da13f effect_dev2
+  da14b effect_dev3
+  da157 esco_tx
+  da163 volume
+  da16a UART_UPDATE_CUSTOM
+  da17d ir_encoder
+  da188 checkSlave
+  da197 Low battery: %u <= %u
+  da1ad audio_codec_task
+  da1be jlstream_1
+  da1c9 jlstream_2
+  da1d4 jlstream_3
+  da1df jlstream_4
+  da1ea jlstream_5
+  da1f5 jlstream_6
+  da200 jlstream_7
+  da20b file_cache
+  da216 aec_dbg
+  da21e tws_ota
+  da226 tws_ota_msg
+  da232 audio_moy_asr
+  da240 CVP_RefTask
+  da24c aud_adc_demo
+  da259 sink_dev0
+  da263 tone_en/normal.*
+  da27a phone_check
+  da286 sink_dev1
+  da296 audio_init
+  da2a5 smart_voice
+  da2bf Vol_LinMusic
+  da2cc Vol_FileMusic
+  da2da Vol_FmMusic
+  da2e6 Vol_SpdMusic
+  da2f3 Vol_IISMusic
+  da300 Vol_MicMusic
+  da30d Vol_USBMusic
+  da31a CheckUart
+  da324 parent stream too short
+  da33c invalid extension
+  da34e /mnt/UDISK/aw_LICENSE/aw_licecse.license
+  da377 tone_en/pow_on_en.*
+  da38b tone_en/pow_off_en.*
+  da3a0 tone_en/bt_c_en.*
+  da3b2 tone_en/bt_dc_en.*
+  da3c5 tone_en/wait_ai.*
+  da3d7 tone_en/take_pic.*
+  da3ea tone_en/s_re_a_en.*
+  da3fe tone_en/e_re_a_en.*
+  da412 tone_en/s_re_v_en.*
+  da426 tone_en/e_re_v_en.*
+  da43a tone_en/call.*
+  da449 tone_en/message.*
+  da45b tone_en/low_battery.*
+  da471 tone_en/touch.*
+  da481 tone_en/end_ai.*
+  da492 tone_en/p4_hello.*
+  da4a5 tone_en/p4_timeout.*
+  da4ba tone_en/p4_lowbat.*
+  da4ce tone_en/p4_connectP.*
+  da4e4 tone_en/p4_connectN.*
+  da4fa tone_en/p4_conflict.*
+  da510 tone_en/p4_living.*
+  da524 tone_en/p4_memory.*
+  da538 tone_en/reset_en.*
+  da54b tone_en/low_en.*
+  da55c tone_en/no_wear.*
+  da56e tone_en/factory.*
+  da580 tone_en/app_con_en.*
+  da595 tone_en/app_dis_en.*
+  da5aa tone_en/charging.*
+  da5bd tone_en/s_aging.*
+  da5cf tone_en/e_aging.*
+  da5e1 tone_en/pow_on_ch.*
+  da5f5 tone_en/pow_off_ch.*
+  da60a tone_en/bt_c_ch.*
+  da61c tone_en/bt_dc_ch.*
+  da62f tone_en/s_re_a_ch.*
+  da643 tone_en/e_re_a_ch.*
+  da657 tone_en/s_re_v_ch.*
+  da66b tone_en/e_re_v_ch.*
+  da67f tone_en/t4_hello.*
+  da692 tone_en/t4_timeout.*
+  da6a7 tone_en/t4_lowbat.*
+  da6bb tone_en/t4_connectP.*
+  da6d1 tone_en/t4_connectN.*
+  da6e7 tone_en/t4_conflict.*
+  da6fd tone_en/t4_living.*
+  da711 tone_en/t4_memory.*
+  da725 tone_en/reset_ch.*
+  da738 tone_en/low_ch.*
+  da749 tone_en/app_con_ch.*
+  da75e tone_en/app_dis_ch.*
+  da773 Cxrw0rw1rw
+  da7a2 btstack_lowpwer_deal
+  da7cf 111214
+  da7d6 1HA1112
+  da7e2 H4_Controller
+  da7f0 link_layer
+  da7fb 1H11A2221
+  da80e Hc08c02
+  da816 c08c04
+  da823 ble_mult
+  da82c ble_bb
+  da837 ble_slave_mult
+  da851 f1C016
+  da86e 141C010
+  da876 source
+  da87d vocal_track_separation
+  da897 jlstream
+  da8a0 bit_width_convert
+  da8b2 resample
+  da8bb play_sync
+  da8c5 capture_sync
+  da8d2 bt_audio_sync
+  da8e5 vocal_track
+  da90d sbc_dec
+  da915 decoder
+  da91d stereo_widener
+  da92c channel_merge
+  da93a channel_expander
+  da94f 0123456789
+  da964 SHA-256
+  da96c dw_update
+  da976 app.bin
+  da983 LOADER.BIN
+  da98e BatWriteAudio failed, ret = %d
+  dab00          (((((                  
+  dab41 AAAAAA
+  dab61 BBBBBB
+  dac01          (((((                  
+  dac42 AAAAAA
+  dac62 BBBBBB
+  db3e4 -@20250402-$d55ebfc6
+  db554  `A B 
+  db82e  0EiG`u
+  dbba8 %AB C 
+  dbc54 %A@ A 
+  dd379 Zedr_ota2.bin
+  dd38b Zuart_ota2.bin
+  dd39d Zsd_update2.bin
+  dd3af Zsd_update2.bin
+  dd3c1 Zble_app_ota.bin
+  dd3d3 Zspp_app_ota.bin
+  dd3e5 Zusb_update2.bin
+  dd3f6 	Zble_ota.bin
+  dd409 Zuart_user.bin
+  dd41b Znor_ota.bin
+  dd42f app_dir_head
+  dd43c ota.bin
+  dd48c cfg_tool.bin
+  dd499 flash.bin
+  dd4a3 flash2.bin
+  dd4bc app_dir_head
+  dd4c9 app_dir_head2
+  dd856 @PVcG 
+  dda02 @ J M 
+  ddc8d b@ J O 
+  de0e9  J C P
+  de131  J C p
+  de1b3 b@ J Q
+  de223 b@ J L 
+  de619 kJ C F Q
+  de734 H J C 
+  dea0e @ R0E 
+  ded4f DA!B P
+  def25  J C p
+  df0d5 JA J(@
+  df247 J@"A B0
+  df250 @"A B1
+  df2e4 qV@ D 
+  df48b I@"A B0
+  df54f DB C R
+  df69f b@ J O a
+  df84c J C H 
+  dfd11 0B#E#@
+  e009e RAD6PA'
+  e00a6 MA^BWA`
+  e00b1 KXAl;UA)
+  e00ce JA(AJA,
+  e00d9 <IA$lNA
+  e0112 LA~	LA
+  e3597 ocqtsBu
+  e359f v-xWyWz1{
+  e384d r`ATAa@
+  e3861 \N@@nN@
+  e38a1 f]@Qh^@
+  e38c6 _@7#_@
+  e38da c@v=d@
+  e38e1 ud@N e@
+  e38ee f@R;h@
+  e3902 l@3\m@
+  e6d4d o7pEqCr2s
+  e6d87 ~-~P~p~
+  e751c CkBdAf
+  e752a CkBcAdpd
+  e79ba bbaaPak1
+  eb9bf &	J,1A4+
+  eb9d1 (;=)?*
+  eb9e2 /%0! -T
+  eb9f1 X8U]%O
+  eba01 SA>EA?
+  eba11 ;IB=E1
+  eba22 A(50,9h/^Gp'Fi$gBpeh\
+  eba3f <4cbJTeV/G2_KA
+  eba51 [XU[RJ3
+  eba60 7+_4FFF`
+  ecc91 3B C P
+  ecde6 `JCeFa
+  ece75 `C 3$Q
+  ed33e RP#`"d
+  ed5e4 A`F G P
+  edcfc sp#`"ds
+  ee1aa "9!8 4
+  ee4bf lB!C P
+  eebf9 8@ A P
+  ef2e0 &$ #!""!
+  ef305 9p`$<~
+  ef466 Qd"%  
+  efdbd p~?#C~?#
+  efdce }?tt}?
+  efde1 ~|?';|?1
+  efe06 y?Ony?
+  efe52 q?		q?f
+  efe5e o?0ho?
+  efeaa c?Y<c?
+  efeba a?!F`?'
+  efeca ]?T-]?
+  efee2 Y?SHX?&pW?
+  eff01 3R?=MQ?
+  eff09 dP? zO?
+  eff61 |:?Bh9?
+  eff69 R8?":7?l 6?
+  effa1 f(?U6'?
+  f00de l>e|f>
+  f014b =u+{=g
+  f01f3 0"%@1"4
+  f3d30 ;P#&%#1
+  f3d87 <?/+:/
+  f3dc7 I]<;?G&
+  f3de0 BDH&7>K
+  f3def 9_\=5V
+  f3dfb PIc8%T
+  f3e03 2eF"WrIIIW41
+  f3e12 9Ki6YOG
+  f3e1c \C?:PEP2:Mb;
+  f5682 @hGeAd
+  f5e9d @SgbbQfPmW`
+  f5ee2 bbaaPmk2
+  f5f17 `4af`?
+  f5fd4 R`QgPl
+  f6679 N5a@a?
+  f66ed a@a1a?
+  f6737 `Aa7`?
+  f681d a@a2a?
+  f695b QC#B,G 
+  f6bcb KE G F B 
+  f6ca5 `#aT`?
+  f739a 2@|n7@
+  f73be `@MMf@z-l@
+  f7485 {A@J6;@
+  f748d %5@>F/@
+  f7726 T0@#I%
+  f7cbc @ A,G 
+  f84cf imjJk$l
+  f88ad !@ G D 
+  f89fe ~U0n4m?
+  f8a45 oD E P
+  f8ab9 oD E P
+  f8ce2 P8A"C 
+  f8ea9 Y*@rW@!
+  f9398 MusicEqBt
+  f93a8 Eq0Media
+  f968c MOY-A073-0.0.8
+  f9cc6 JL-BR22
+  f9dc0 br22xx
+  fa5e2 r?_{~?
+  fa6a4 KE@`E 
+  fabd2 G!E&D!
+  fb16a @ C G 
+  fb329 `TdC`p
+  fb36c ? QbP`
+  fc284 0a1`C 
+  fc336 0a1`C 
+  fc402 @hEiB!C4
+  fc46c @hGiE!
+  fc4a6 @hFiB 
+  fc532 @hFiC!
+  fc5d6 @hGiC S
+  fcfee [G@bAd
+  fd4c9 O E@!P
+  fdd78 @ Rk)Hk@
+  fdda4 kA@!G!
+  fddfc  @Pk	g
+  fef74 HfA B 
+  ff207 c@ A P
+  ff5f9 fB C P
+  ff7fe @gBfC 
+  ffe22 `eWaT`Raae
+ 1003f6 B?@ G 
+ 100794 !0?N]v@ 
+ 100e1b $rZA R
+ 102598 pT@ A!
+ 10263f $x@E G 0
+ 10278c flash_powerup_ok
+ 102e8f  B E C
+ 102ec2 CPYBX@
+ 10322e @`E(F!
+ 1032f4 :&PaQb
+ 103305 47aE!F!
+ 10380f  @ B A
+ 1038e5 A@"YfZg*
+ 103ae6 x@Z$C!
+ 103b62 HB`ZA 
+ 103d22 x@B$C!
+ 103d75  	C`cQ
+ 103dfc 	a!NB$P
+ 103f8d IB4C!P
+ 103fb7 aA$B*P

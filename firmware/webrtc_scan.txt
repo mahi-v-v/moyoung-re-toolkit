@@ -1,0 +1,71 @@
+scan start Thu Jul 30 09:39:30 UTC 2026
+20260203155551_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260303095648_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=0 | livestream_webrtc_strings=0
+20260317102636_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260331102923_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260331103738_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260331171209_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=2 | livestream_webrtc_strings=0
+20260421173210_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260506152222_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260506155551_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260506173138_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260522093024_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260522160416_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260523100945_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260523142432_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260525161658_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260525193750_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=4 | livestream_webrtc_strings=6
+20260526105650_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260526164049_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260527102032_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260527193007_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260604203926_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260605114817_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260610104427_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260624214225_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260629210058_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260703173735_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260706162612_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260708172951_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260714103302_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=4 | livestream_webrtc_strings=6
+20260715101101_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260716114408_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260720120418_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260727182013_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260729144724_openwrt_v821_aiglass-ab.swu           | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20251205165313_openwrt_v821_aiglass-ai.swu           | ver=1.0.0.1.3.2509221515       | webrtc_files=1 | livestream_webrtc_strings=0
+20251219094623_openwrt_v821_aiglass-ai.swu           | ver=(no user part)             | webrtc_files=0 | livestream_webrtc_strings=0
+20251225171904_openwrt_v821_aiglass-ai.swu           | ver=1.0.0.1.3.2509161358       | webrtc_files=1 | livestream_webrtc_strings=0
+20260105115613_openwrt_v821_aiglass-ai.swu           | ver=1.0.0.1.3.2509022111       | webrtc_files=0 | livestream_webrtc_strings=0
+20260122103317_openwrt_v821_aiglass-ai.swu           | ver=1.0.0.8.3.2601212046       | webrtc_files=1 | livestream_webrtc_strings=0
+20260122174551_openwrt_v821_aiglass-ai.swu           | ver=1.0.0.8.3.2601221555       | webrtc_files=4 | livestream_webrtc_strings=4
+20260203193937_openwrt_v821_aiglass-ai.swu           | ver=1.0.1.1.4.2511220951       | webrtc_files=1 | livestream_webrtc_strings=0
+20260206195553_openwrt_v821_aiglass-ai.swu           | ver=1.0.0.10.3.2602051400      | webrtc_files=1 | livestream_webrtc_strings=0
+20260224114557_openwrt_v821_aiglass-ai.swu           | ver=1.0.0.10.3.2509022111      | webrtc_files=1 | livestream_webrtc_strings=0
+20260312150803_openwrt_v821_aiglass-ai.swu           | ver=1.2.0.14.3.2512082115      | webrtc_files=0 | livestream_webrtc_strings=0
+20260402205157_openwrt_v821_aiglass-ai.swu           | ver=1.2.0.15.3.2512082115      | webrtc_files=1 | livestream_webrtc_strings=0
+20260403201643_openwrt_v821_aiglass-ai.swu           | ver=1.0.0.4.3.2512082115       | webrtc_files=1 | livestream_webrtc_strings=0
+20260421115202_openwrt_v821_aiglass-ai.swu           | ver=1.4.3.18.3.2604201855      | webrtc_files=1 | livestream_webrtc_strings=0
+20260427195936_openwrt_v821_aiglass-ai.swu           | ver=1.4.0.20.3.2603302218      | webrtc_files=1 | livestream_webrtc_strings=0
+20260506195257_openwrt_v821_aiglass-ai.swu           | ver=1.4.0.20.3.2601311025      | webrtc_files=1 | livestream_webrtc_strings=0
+20260506202516_openwrt_v821_aiglass-ai.swu           | ver=1.0.0.1.3.2512161640       | webrtc_files=1 | livestream_webrtc_strings=0
+20260509173354_openwrt_v821_aiglass-ai.swu           | ver=1.0.0.10.3.2510292111      | webrtc_files=1 | livestream_webrtc_strings=0
+20260522134220_openwrt_v821_aiglass-ai.swu           | ver=1.4.0.21.3.2512301530      | webrtc_files=1 | livestream_webrtc_strings=0
+20260526140209_openwrt_v821_aiglass-ai.swu           | ver=1.2.0.21.3.2512082115      | webrtc_files=0 | livestream_webrtc_strings=0
+20260603143344_openwrt_v821_aiglass-ai.swu           | ver=1.0.0.10.3.2604161510      | webrtc_files=4 | livestream_webrtc_strings=5
+20260603180432_openwrt_v821_aiglass-ai.swu           | ver=1.4.0.22.3.2606031721      | webrtc_files=1 | livestream_webrtc_strings=0
+20260605150607_openwrt_v821_aiglass-ai.swu           | ver=1.0.0.5.3.2512301530       | webrtc_files=1 | livestream_webrtc_strings=0
+20260702201042_openwrt_v821_aiglass-ai.swu           | ver=1.4.0.21.3.2511220955      | webrtc_files=1 | livestream_webrtc_strings=0
+20260704112325_openwrt_v821_aiglass-ai.swu           | ver=1.2.0.19.3.2512082115      | webrtc_files=1 | livestream_webrtc_strings=0
+20260709172419_openwrt_v821_aiglass-ai.swu           | ver=(no user part)             | webrtc_files=0 | livestream_webrtc_strings=0
+20260721182507_openwrt_v821_aiglass-ai.swu           | ver=1.2.0.22.3.2607171030      | webrtc_files=1 | livestream_webrtc_strings=0
+20260311161942_openwrt_v821_aiglass_imx681-ab.swu    | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260522183154_openwrt_v821_aiglass_imx681-ab.swu    | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260604104412_openwrt_v821_aiglass_imx681-ab.swu    | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260624181000_openwrt_v821_aiglass_imx681-ab.swu    | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260723104821_openwrt_v821_aiglass_imx681-ab.swu    | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20260729171342_openwrt_v821_aiglass_imx681-ab.swu    | ver=(no user part)             | webrtc_files=1 | livestream_webrtc_strings=0
+20251226154557_openwrt_v821_aiglass_imx681-ai.swu    | ver=1.0.0.1.3.2512261515       | webrtc_files=1 | livestream_webrtc_strings=0
+20260303185021_openwrt_v821_aiglass_imx681-ai.swu    | ver=1.0.0.1.3.2601300930       | webrtc_files=1 | livestream_webrtc_strings=0
+20260312134609_openwrt_v821_aiglass_imx681-ai.swu    | ver=1.4.1.14.3.2603101600      | webrtc_files=1 | livestream_webrtc_strings=0
+DONE Thu Jul 30 09:48:10 UTC 2026

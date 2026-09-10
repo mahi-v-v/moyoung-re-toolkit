@@ -1,0 +1,6 @@
+{
+  "name": "glass-sdk",
+  "version": "0.1.0",
+  "description": "Custom Expo native module wrapping the MoYoung (CRP) glasses BLE SDK",
+  "main": "index.ts"
+}

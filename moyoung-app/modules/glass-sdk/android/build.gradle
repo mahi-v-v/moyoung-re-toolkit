@@ -1,0 +1,86 @@
+apply plugin: 'com.android.library'
+apply plugin: 'org.jetbrains.kotlin.android'
+
+group = 'expo.modules.moyoung'
+version = '0.1.0'
+
+// ── Standard Expo local-module wiring (do not remove) ─────────────────────────
+def expoModulesCorePlugin = new File(project(":expo-modules-core").projectDir.absolutePath,
+        "ExpoModulesCorePlugin.gradle")
+apply from: expoModulesCorePlugin
+applyKotlinExpoModulesCorePlugin()
+useCoreDependencies()
+useExpoPublishing()
+
+// SDK versions are managed here (not inherited from expo-modules-core).
+project.android {
+  compileSdk safeExtGet("compileSdkVersion", 35)
+  defaultConfig {
+    minSdk safeExtGet("minSdkVersion", 24)      // BLE + foreground-service typing need 24+
+    targetSdk safeExtGet("targetSdkVersion", 35)
+  }
+}
+
+// ── Vendor AAR resolution ─────────────────────────────────────────────────────
+// The MoYoung SDK ships as a plain .aar in ./libs. We resolve it with a flatDir
+// repo + `implementation files(...)`. (Alternative: Expo's `gradleAarProjects` in
+// expo-module.config.json — pick ONE mechanism, not both, to avoid duplicate classes.)
+repositories {
+  flatDir { dirs 'libs' }
+}
+
+android {
+  namespace "expo.modules.moyoung"       // must match the Kotlin package root
+  defaultConfig {
+    versionCode 1
+    versionName "0.1.0"
+  }
+  lintOptions { abortOnError false }
+  kotlinOptions { jvmTarget = '17' }
+  compileOptions {
+    sourceCompatibility JavaVersion.VERSION_17
+    targetCompatibility JavaVersion.VERSION_17
+  }
+}
+
+dependencies {
+  // Native event bus used to carry device events up to the Expo module (see GlassEvent.kt).
+  implementation 'org.greenrobot:eventbus:3.3.1'
+
+  // The vendor SDK. The skeleton does NOT call it yet, but it is on the classpath so that
+  // wiring the MoyoungAdapter (see moyoung-app/README.md) resolves immediately.
+  implementation files('libs/my_glasses_sdk.aar')
+
+  // JieLi BLE-OTA library — the MoYoung AAR references com.jieli.jl_bt_ota.* for the Core
+  // (Jieli) OTA path but does NOT bundle it. From JieLi's open-source repo
+  // (github.com/Jieli-Tech/Android-JL_OTA, Apache-2.0).
+  // VERSION MATTERS: our my_glasses_sdk.aar (obfuscated com.moyoung.u.*) calls the OLDER API
+  // BluetoothBase.registerBluetoothCallback(IBluetoothCallback):boolean. v1.11.0 BROKE this
+  // (migrated to registerBluetoothCallback(BtEventCallback):void → NoSuchMethodError at startOta).
+  // v1.10.0_10932 is the newest release that still has (IBluetoothCallback):Z AND every other
+  // method the SDK uses — verified via javap: all BluetoothOTAConfigure setters
+  // (setBleIntervalMs/setNeedChangeMtu/setUseAuthDevice/…), startOTA(IUpgradeCallback):void,
+  // BtEventCallback + IUpgradeCallback. See docs/14 §3.
+  implementation files('libs/jl_bt_ota_V1.10.0_10932-release.aar')
+
+  // Transitive deps the MoYoung AAR declares but does NOT bundle. Required once you
+  // start calling the SDK, otherwise you'll hit NoClassDefFoundError at runtime.
+  implementation 'com.google.protobuf:protobuf-java:4.29.3'
+  implementation 'com.squareup.okhttp3:okhttp:4.12.0'
+
+  // NanoHTTPD — the Allwinner/Vision Wi-Fi OTA path (startAllWinnerOta) spins up an
+  // embedded HTTP server on the phone to serve the .swu to the glasses over the device
+  // AP. The MoYoung AAR references fi.iki.elonen.NanoHTTPD but does NOT bundle it.
+  //
+  // We VENDOR the exact 2.3.1 source (src/main/java/fi/iki/elonen/NanoHTTPD.java) instead of
+  // the Maven artifact, and surgically instrument/harden Response.send()/sendBody(): stock
+  // 2.3.1 SILENTLY SWALLOWS a mid-stream socket IOException (send()'s `catch (IOException)`
+  // logs to a dead Android logger and closes) — so a broken-pipe / short write truncates the
+  // .swu body with no signal. Since the Vision firmware treats a truncated download as success
+  // (decompiled — see docs/moyoung_reverse_engineering.md §22 + docs/14 §7), that silent
+  // truncation is exactly what made the OTA "complete" at ~25% and never flash. Our copy logs
+  // the precise bytes-sent / declared length / close-reason (surfaced to Metro via
+  // NanoHTTPD.WIRE_LOG) and flushes per chunk with a larger buffer. The SDK's
+  // `com.moyoung.m.a$c extends fi.iki.elonen.NanoHTTPD` links against this class unchanged.
+  // implementation 'org.nanohttpd:nanohttpd:2.3.1'   // <- replaced by the vendored+patched source
+}

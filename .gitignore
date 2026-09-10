@@ -1,0 +1,95 @@
+# ==========================================
+# Mobile app (Expo / React Native)
+# ==========================================
+node_modules/
+.expo/
+.expo-shared/
+dist/
+web-build/
+expo-env.d.ts
+.metro-health-check*
+.metro-cache/
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+pnpm-debug.*
+.env
+.env.*
+!.env.example
+*.tsbuildinfo
+.eslintcache
+
+# Generated native projects (regenerate with `npx expo prebuild`)
+moyoung-app/ios/
+
+# ==========================================
+# Native build artifacts
+# ==========================================
+build/
+.gradle/
+.kotlin/
+.cxx/
+local.properties
+*.orig.*
+*.apk
+*.aab
+*.dex
+*.hprof
+*.iml
+
+# Signing material — never commit (the well-known RN debug key is kept on purpose)
+*.jks
+*.keystore
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
+!moyoung-app/android/app/debug.keystore
+
+# ==========================================
+# Reverse engineering / firmware
+# ==========================================
+# Vendor SDKs, firmware images and decompiled third-party artifacts are NOT
+# distributed with this repo — see VENDOR_ASSETS.md.
+*.swu
+*.ufw
+*.fw
+*.img
+*.aar
+# Ghidra project databases and extraction scratch
+*.gpr
+*.rep/
+*.gpr.lock
+_*.extracted/
+squashfs-root/
+rootfs/
+# Decompiler / packet-capture scratch
+*.jadx/
+jadx-out/
+apktool-out/
+*.pcap
+*.pcapng
+*.btsnoop*
+
+# ==========================================
+# IDE / OS noise
+# ==========================================
+.claude/
+.gemini/
+.idea/
+*.swp
+*~
+.DS_Store
+__MACOSX/
+Thumbs.db
+Desktop.ini
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# ==========================================
+# Logs
+# ==========================================
+*.log
+logcat*.txt
