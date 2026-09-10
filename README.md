@@ -18,6 +18,13 @@ the BLE wire format).
 > **What it deliberately does not contain** — the vendor's proprietary SDKs, firmware images, and
 > decompiled/decrypted firmware payloads. See [`VENDOR_ASSETS.md`](VENDOR_ASSETS.md).
 
+> ### Why the history is a single commit
+> This project was a **long, multi-month reverse-engineering effort**, and its full day-by-day
+> commit history lives in a **private repository**. This public repo is a deliberately curated
+> snapshot, rebuilt as one clean commit so the work can be shown as a portfolio piece **without
+> publishing vendor-proprietary material or work-in-progress security details**. The flat history
+> here is intentional — it's a showcase, not the development log.
+
 > ### How to read the findings
 > Claims are tagged **CONFIRMED** (verified from the shipped SDK/its binaries or vendor docs),
 > **INFERRED** (strong deduction, not yet proven on hardware), or **UNVERIFIED / TODO** (needs a
